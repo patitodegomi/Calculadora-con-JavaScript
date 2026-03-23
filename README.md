@@ -1,1 +1,1 @@
-Pequeño proyecto que emula una calculadora con funciones básicas para ir practicando JavaScript!
+Pequeño proyecto que emula una calculadora con funciones básicas para ir practicando JavaScript! 🖩 
