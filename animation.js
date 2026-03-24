@@ -26,6 +26,7 @@ botones.forEach(boton => {
             return;
             } catch {
                 resultado.textContent = "Error";
+                return;
             }
         }
 
